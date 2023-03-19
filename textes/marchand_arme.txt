@@ -1,0 +1,6 @@
+Manon : Salut, apparamment le vieux veut me filer quelque chose... Une relique ou je sais pas quoi. Avec un pouvoir magique je crois. 
+Marchand : Aah ! Ca. Ca pourrissait dans la réserve depuis longtemps. Tiens, prends le avec plaisir.
+(Vous avez obtenu la relique du village.)
+(On dirait un simple pistolet. Appuyez sur espace pour tirer.)
+(...)
+(Dans quel sens ça peut bien tirer ?)
